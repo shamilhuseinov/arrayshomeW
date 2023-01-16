@@ -1,0 +1,15 @@
+/Users/samil/Projects/arrayshomeW/arrayshomeW/obj/Debug/net7.0/arrayshomeW.csproj.AssemblyReference.cache
+/Users/samil/Projects/arrayshomeW/arrayshomeW/obj/Debug/net7.0/arrayshomeW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samil/Projects/arrayshomeW/arrayshomeW/obj/Debug/net7.0/arrayshomeW.AssemblyInfoInputs.cache
+/Users/samil/Projects/arrayshomeW/arrayshomeW/obj/Debug/net7.0/arrayshomeW.AssemblyInfo.cs
+/Users/samil/Projects/arrayshomeW/arrayshomeW/obj/Debug/net7.0/arrayshomeW.csproj.CoreCompileInputs.cache
+/Users/samil/Projects/arrayshomeW/arrayshomeW/bin/Debug/net7.0/arrayshomeW
+/Users/samil/Projects/arrayshomeW/arrayshomeW/bin/Debug/net7.0/arrayshomeW.deps.json
+/Users/samil/Projects/arrayshomeW/arrayshomeW/bin/Debug/net7.0/arrayshomeW.runtimeconfig.json
+/Users/samil/Projects/arrayshomeW/arrayshomeW/bin/Debug/net7.0/arrayshomeW.dll
+/Users/samil/Projects/arrayshomeW/arrayshomeW/bin/Debug/net7.0/arrayshomeW.pdb
+/Users/samil/Projects/arrayshomeW/arrayshomeW/obj/Debug/net7.0/arrayshomeW.dll
+/Users/samil/Projects/arrayshomeW/arrayshomeW/obj/Debug/net7.0/refint/arrayshomeW.dll
+/Users/samil/Projects/arrayshomeW/arrayshomeW/obj/Debug/net7.0/arrayshomeW.pdb
+/Users/samil/Projects/arrayshomeW/arrayshomeW/obj/Debug/net7.0/arrayshomeW.genruntimeconfig.cache
+/Users/samil/Projects/arrayshomeW/arrayshomeW/obj/Debug/net7.0/ref/arrayshomeW.dll
